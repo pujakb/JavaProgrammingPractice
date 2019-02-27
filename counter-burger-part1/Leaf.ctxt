@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Leaf
+comment1.params=d\ p
+comment1.target=Leaf(java.lang.String,\ java.lang.Double)
+comment2.params=
+comment2.target=void\ printDescription()
+comment3.params=c
+comment3.target=void\ addChild(composite.Component)
+comment4.params=c
+comment4.target=void\ removeChild(composite.Component)
+comment5.params=i
+comment5.target=composite.Component\ getChild(int)
+numComments=6
